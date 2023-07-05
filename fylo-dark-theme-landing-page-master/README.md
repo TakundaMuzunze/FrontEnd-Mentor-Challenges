@@ -21,7 +21,7 @@ Welcome to my solution for the Fylo Landing Page challenge! The goal was to crea
 
 ## Live Demo 💻
 
-Check out the live demo of the Fylo Landing Page [here](https://your-demo-url.com).
+Check out the live demo of the Fylo Landing Page [here](https://flyolandingpage.netlify.app/).
 
 ## Technologies Used 🛠️
 
