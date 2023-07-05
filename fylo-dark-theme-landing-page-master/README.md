@@ -2,7 +2,7 @@
 
 A responsive landing page for Fylo, a file storage and sharing platform. This project is a solution to the [Fylo dark theme landing page challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f0efec5c34721b71b72a) from Frontend Mentor.
 
-![Fylo Landing Page Preview](./preview.png)
+![Fylo Landing Page Preview](./design/desktop-preview.jpg)
 
 ## Overview 📋
 
@@ -10,14 +10,14 @@ Welcome to my solution for the Fylo Landing Page challenge! The goal was to crea
 
 ## Features 🚀
 
-- 🌐**Responsive Design** : The landing page is fully responsive, allowing optimal viewing on various devices.
-- ✨**Interactive Elements** : Implemented hover states for all interactive elements to provide feedback to users.
-- 🌙**Dark Theme** : The design features a sleek and modern dark theme, creating an engaging visual experience.
-- ✅**Form Validation** : Implemented client-side form validation to ensure data integrity and enhance user experience.
+- 🌐 **Responsive Design** : The landing page is fully responsive, allowing optimal viewing on various devices.
+- ✨ **Interactive Elements** : Implemented hover states for all interactive elements to provide feedback to users.
+- 🌙 **Dark Theme** : The design features a sleek and modern dark theme, creating an engaging visual experience.
+- ✅ **Form Validation** : Implemented client-side form validation to ensure data integrity and enhance user experience.
 
 ## Preview 🖥️
 
-![Fylo Landing Page Preview](./design/desktop-preview.jpg)
+![Fylo Landing Page Preview](./preview.png)
 
 ## Live Demo 💻
 
